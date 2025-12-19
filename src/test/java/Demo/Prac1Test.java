@@ -8,6 +8,7 @@ public class Prac1Test {
 	public void CarTest()
 	{
 		System.out.println("Audi");
+		System.out.println("Benz");
 	}
 	
 	
