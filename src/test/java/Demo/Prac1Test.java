@@ -7,7 +7,7 @@ public class Prac1Test {
 	@Test(groups = "smoke")
 	public void CarTest()
 	{
-		System.out.println("Audi");
+		
 		System.out.println("Benz");
 		System.out.println("BMW");
 	}
